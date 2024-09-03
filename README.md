@@ -1,7 +1,6 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;" >
 <h2 style="font-size: 55px; text-align: center;">💻🖱️🎹🎸 About Me 🎸🎹🖱️💻</h2>
 <p style="font-size: 24px; text-align: center;">⚪ Currently working on a mix of Twitter & Spotify clone: <a href="https://oriteicher.github.io/Tweetify" style="text-decoration: none; color: #007bff;"> Tweetify Demo</a><br>
-⚪ Hopefully, Elon Musk & The Spotify founders won't sue me after I finish it... <br>
 ⚪ The technologies I'm using for this project: React (TSX) | Firebase | SCSS | MUI <br>
 <h3 style="font-size: 24px;">🔴 Frontend Skills </h3> 
 <div>
